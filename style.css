@@ -1,0 +1,11 @@
+*{box-sizing:border-box;font-family:Poppins,Arial}
+body{margin:0;min-height:100vh;background:linear-gradient(160deg,#064e3b,#d4af37);color:#173b2b}
+.hero{text-align:center;color:white;padding:45px 20px}
+.logo{font-size:60px}
+h1{letter-spacing:3px}
+.container{max-width:700px;margin:auto;padding:20px}
+.card{background:white;border-radius:22px;padding:22px;margin:15px 0;box-shadow:0 10px 25px #0003;cursor:pointer;transition:.3s}
+.card:hover{transform:translateY(-5px)}
+.card h3{margin:5px 0;color:#065f46}
+.card span{color:#666}
+.view{background:white;border-radius:22px;padding:25px;margin-top:25px;line-height:1.7}
